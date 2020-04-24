@@ -1,4 +1,4 @@
-# binder
+# Binder
 
 Find a study mate nearby!
 
