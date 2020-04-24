@@ -2,7 +2,7 @@
 
 Find a study mate nearby!
 
-![Binder App]/logo.png
+![Binder App](/logo.png)
 
 ## What is Binder?
 
